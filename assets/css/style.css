@@ -69,12 +69,12 @@ h1, h2, h3, h4, h5, h6 {
 
 #header.header-scrolled {
   background: #CC0B0E;
-  height: 60px;
+  height: 100px;
   padding: 10px 0;
 }
 
 #header .logo h1 {
-  font-size: 35px;
+  font-size: 30px;
   margin: 0;
   padding: 6px 0;
   line-height: 1;
