@@ -60,7 +60,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  height: 80px;
+  height: 120px;
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
@@ -69,12 +69,12 @@ h1, h2, h3, h4, h5, h6 {
 
 #header.header-scrolled {
   background: #CC0B0E;
-  height: 100px;
+  height: 90px;
   padding: 10px 0;
 }
 
 #header .logo h1 {
-  font-size: 30px;
+  font-size: 35px;
   margin: 0;
   padding: 6px 0;
   line-height: 1;
